@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @KushalSinghRamgadiya
 - 👀 I’m interested in Data Analyst
 - 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me kushalsinghramgadiya9@gmail.com
 
 <!---
 KushalSinghRamgadiya/KushalSinghRamgadiya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
